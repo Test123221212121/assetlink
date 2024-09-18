@@ -1,0 +1,140 @@
+﻿<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate"><title data-heap-redact-text=""></title><meta name="description" content=""><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"><meta name="csrf_token" content="b7fb5dd41ac64109e0798c7cf5a03ab1c26fb019"><link rel="manifest" href="static/icons/manifest.json"><link rel="apple-touch-icon" sizes="180x180" href="static/icons/apple-touch-icon.png"><link rel="icon" id="favicon32" type="image/png" sizes="32x32"><link rel="icon" id="favicon16" type="image/png" sizes="16x16"><link rel="mask-icon" href="static/icons/safari-pinned-tab.svg" color="#37b56d"><link rel="shortcut icon" id="favicon"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="apple-mobile-web-app-title" content="Juniper Square"><meta name="application-name" content="Juniper Square"><meta name="msapplication-config" content="/static/icons/browserconfig.xml"><meta name="theme-color" content="#ffffff"><link rel="stylesheet" href="dist/jsq.css?v=d477e0ad78"> <!-- This script was copied from https://developers.heap.io/docs/web#base-installation -->
+<script type="text/javascript">
+  if ("2727357492" && !window.heap) {
+    (window.heap = window.heap || []),
+      (heap.load = function (e, t) {
+        (window.heap.appid = e), (window.heap.config = t = t || {});
+        var r = document.createElement("script");
+        (r.type = "text/javascript"),
+          (r.async = !0),
+          (r.src = "https://cdn.heapanalytics.com/js/heap-" + e + ".js");
+        var a = document.getElementsByTagName("script")[0];
+        a.parentNode.insertBefore(r, a);
+        for (
+          var n = function (e) {
+              return function () {
+                heap.push([e].concat(Array.prototype.slice.call(arguments, 0)));
+              };
+            },
+            p = [
+              "addEventProperties",
+              "addUserProperties",
+              "clearEventProperties",
+              "identify",
+              "resetIdentity",
+              "removeEventProperty",
+              "setEventProperties",
+              "track",
+              "unsetEventProperty",
+            ],
+            o = 0;
+          o < p.length;
+          o++
+        )
+          heap[p[o]] = n(p[o]);
+      });
+
+
+    
+    function sanitizeDomain(domain, path) {
+      var DOMAINS = {
+          LEGACY_PORTAL: 'legacyportal',
+          PORTAL_2: 'portal2',
+          OUTLOOK: 'outlook',
+          GP_ARENA: 'gparena',
+          UNKNOWN: 'unknown'
+      }
+
+      
+      if (domain === DOMAINS.LEGACY_PORTAL || domain === DOMAINS.PORTAL_2 ||
+          domain === DOMAINS.OUTLOOK || domain === DOMAINS.GP_ARENA) {
+        return domain;
+      
+      } else if ((domain.indexOf("junipersquare") === -1) || (path && (path.indexOf("/portal") === 0))) {
+        return DOMAINS.LEGACY_PORTAL;
+      }
+      
+      else if (domain.match(/^app./g) || path.indexOf("/lp/") >= 0) {
+        return DOMAINS.PORTAL_2;
+      }
+      
+      else if (domain.indexOf("outlook") >= 0) {
+        return DOMAINS.OUTLOOK;
+      }
+      
+      else if (domain.indexOf(".junipersquare.") >= 0){
+        return DOMAINS.GP_ARENA;
+      } else {
+        return DOMAINS.UNKNOWN;
+      }
+    }
+
+    
+    function sanitizePath(path) {
+      if (!path) {
+        return undefined;
+      }
+
+      var sanitizedPath = path;
+      
+      if (path.indexOf("?") >= 0) {
+        var pathBeforeQuery = path.slice(0, path.indexOf("?"));
+
+        sanitizedPath = `${pathBeforeQuery}?*`;
+      }
+
+      
+      if (path.indexOf("/i/") >= 0) {
+        var regex = /\/i\/\w*/g;
+        sanitizedPath = sanitizedPath.replace(regex, '/i/*')
+      }
+
+      return sanitizedPath;
+    }
+
+    function sanitizeHeapProperties(props) {
+      var domain = sanitizeDomain(props.domain, props.path);
+      var path = sanitizePath(props.path);
+      var previous_page = sanitizePath(props.previous_page);
+      var query = !!props.query ? "*" : undefined;
+
+      return Object.assign(props, {path, domain, previous_page, query});
+    }
+
+    var arena_id;
+
+    
+
+    var isOutlook = window.location.hostname.indexOf("outlook") >= 0;
+    var isCCTools = window.location.hostname.indexOf("admin") >= 0;
+
+    // list of ids for arenas with DPAs, this should be updated as new GPs are added
+    var dpa_arena_ids = [1762,220,122,917,1675,257,849,899,1224,297,165,876,1596,1831,704,738,25,764,1112,438,230,984];
+
+    
+    if (dpa_arena_ids.indexOf(arena_id) < 0 && !isOutlook && !isCCTools) {
+      heap.load("2727357492", {
+        rewrite: function(props) {
+          heap.clearEventProperties();
+          heap.addEventProperties({
+            arena_id: arena_id,
+          });
+  
+          if (props) {
+            
+            var pageview_properties = !!props.pageview_properties ?
+            sanitizeHeapProperties(Object.assign(props.pageview_properties, {domain: window.location.hostname, path: window.location.pathname})) : undefined;
+            var session_properties = !!props.session_properties ? sanitizeHeapProperties(props.session_properties) : undefined;
+            return Object.assign(props, {pageview_properties, session_properties});
+          }
+
+          return {};
+        }
+      });
+    }
+  }
+</script><link href="dist/client/vendors.b25355a670192f4639d6.css" rel="stylesheet"></head><body><script>window.__jsqGetGoogleMapsBrowserAPIToken__ = function () {
+        return "AIzaSyAt9TCeNzK-HXYkJ3_yH1DxQbQc0jMvXhI";
+      };</script><script>window.__jsqGetSentryOpts__ = function () {
+        return { dsn: "https://47d2ccf0a4394b5aac9e502269f032a5@sentry.io/1881545", environment: "production" };
+      };</script><div id="root" class="global-portal-container" data-heap-redact-attributes="href,key,title,aria-label,alt,src,download,to,data-json,data-links,data-lat,data-title,data-url,data-is-active,data-date-sold,data-href,data-id,data-href,data-id"></div><script defer="defer" src="dist/client/runtime.750c626144e7f579cc8a.js"></script><script defer="defer" src="dist/client/vendors.e545ce630477800d9ca2.js"></script><script defer="defer" src="dist/client/portal.ac3a8acd15e2ace73ddb.js"></script></body></html>

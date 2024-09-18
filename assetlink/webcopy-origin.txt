@@ -1,0 +1,268 @@
+Uri: https://app.junipersquare.com/dist/client/portal.ac3a8acd15e2ace73ddb.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\dist\client\portal.ac3a8acd15e2ace73ddb.js
+Content Type: application/javascript
+
+Uri: https://app.junipersquare.com/dist/client/runtime.750c626144e7f579cc8a.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\dist\client\runtime.750c626144e7f579cc8a.js
+Content Type: application/javascript
+
+Uri: https://app.junipersquare.com/dist/client/vendors.b25355a670192f4639d6.css
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\dist\client\vendors.b25355a670192f4639d6.css
+Content Type: text/css
+
+Uri: https://app.junipersquare.com/dist/client/vendors.e545ce630477800d9ca2.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\dist\client\vendors.e545ce630477800d9ca2.js
+Content Type: application/javascript
+
+Uri: https://app.junipersquare.com/dist/jsq.css?v=d477e0ad78
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\dist\jsq.css
+Content Type: text/css
+
+Uri: https://app.junipersquare.com/dist/select2-spinner.gif
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\dist\select2-spinner.gif
+Content Type: image/gif
+
+Uri: https://app.junipersquare.com/dist/select2.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\dist\select2.png
+Content Type: image/png
+
+Uri: https://app.junipersquare.com/dist/select2x2.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\dist\select2x2.png
+Content Type: image/png
+
+Uri: https://app.junipersquare.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/octet-stream
+
+Uri: https://app.junipersquare.com/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://app.junipersquare.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://app.junipersquare.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://app.junipersquare.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\fonts\glyphicons-halflings-regular.woff
+Content Type: application/octet-stream
+
+Uri: https://app.junipersquare.com/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://app.junipersquare.com/login?path=%2Fi%2Fassetlink
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\login.html
+Content Type: text/html
+
+Uri: https://app.junipersquare.com/static/icons/apple-touch-icon.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\static\icons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://app.junipersquare.com/static/icons/info-square.svg
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\static\icons\info-square.svg
+Content Type: image/svg+xml
+
+Uri: https://app.junipersquare.com/static/icons/manifest.json
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\static\icons\manifest.json
+Content Type: application/json
+
+Uri: https://app.junipersquare.com/static/icons/safari-pinned-tab.svg
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\static\icons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://app.junipersquare.com/static/spinner_lg.gif
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\static\spinner_lg.gif
+Content Type: image/gif
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64997ddd4e68f4e3552ac05a_warning-for-dc.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64997ddd4e68f4e3552ac05a_warning-for-dc.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64997ddd4e68f4e3552ac05b_5e32977351fd9e7867622b1a_divider.svg
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64997ddd4e68f4e3552ac05b_5e32977351fd9e7867622b1a_divider.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64998a495e8076ac3185e840_DMSans-Regular.ttf
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64998a495e8076ac3185e840_DMSans-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64998a7dfb72f6895c1bf9b3_DMSans-Medium.ttf
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64998a7dfb72f6895c1bf9b3_DMSans-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64998a91c135cda1536defb4_DMSerifDisplay-Regular.ttf
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64998a91c135cda1536defb4_DMSerifDisplay-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64998a9bc5eecec5b3aa3cbf_DMSerifDisplay-Italic.ttf
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64998a9bc5eecec5b3aa3cbf_DMSerifDisplay-Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64998aaa7bfe33e208a8a4cc_DMSans-Bold.ttf
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64998aaa7bfe33e208a8a4cc_DMSans-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64998ab0c5eecec5b3aa564f_DMSans-BoldItalic.ttf
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64998ab0c5eecec5b3aa564f_DMSans-BoldItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64998abd8938c8e110551683_DMSans-MediumItalic.ttf
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64998abd8938c8e110551683_DMSans-MediumItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64998acc934689bd379d8d9a_DMSans-Italic.ttf
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64998acc934689bd379d8d9a_DMSans-Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64d21cee0ecba5700a667e7d_assetlink-favicon.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64d21cee0ecba5700a667e7d_assetlink-favicon.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/64d21cf3c441a7d889419c15_assetlink-webclip.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\64d21cf3c441a7d889419c15_assetlink-webclip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/65034ca122636d3914f9c870_assetlink-logo.svg
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\65034ca122636d3914f9c870_assetlink-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/css/assetlink.webflow.2f716cf8f.css
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\css\assetlink.webflow.2f716cf8f.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfb1/js/webflow.49f868186.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfb1\js\webflow.49f868186.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/64e8bdc6efa42eaf8f00969a_Maple Big-p-1080.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\64e8bdc6efa42eaf8f00969a_Maple Big-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/64e8bdc6efa42eaf8f00969a_Maple Big-p-500.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\64e8bdc6efa42eaf8f00969a_Maple Big-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/64e8bdc6efa42eaf8f00969a_Maple Big-p-800.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\64e8bdc6efa42eaf8f00969a_Maple Big-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/64e8bdc6efa42eaf8f00969a_Maple Big.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\64e8bdc6efa42eaf8f00969a_Maple Big.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/64ec7a43bb945b48c0dea896_Andrew Berman.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\64ec7a43bb945b48c0dea896_Andrew Berman.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/64ec7a5704bac12e76a4656f_David Kabiller.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\64ec7a5704bac12e76a4656f_David Kabiller.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/64ec7a613c4fe5e2a56dceff_Debra Tani.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\64ec7a613c4fe5e2a56dceff_Debra Tani.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/64ec7a7fd3983303e57de974_Nick Pellett.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\64ec7a7fd3983303e57de974_Nick Pellett.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/64ec7a87a89150e4b425f246_Terry Lines.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\64ec7a87a89150e4b425f246_Terry Lines.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/650851319502cf2f4c83899f_1_Nick Bruce copy.webp
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\650851319502cf2f4c83899f_1_Nick Bruce copy.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/66d3622a942268b3241217a4_Compound Cover-p-1080.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\66d3622a942268b3241217a4_Compound Cover-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/66d3622a942268b3241217a4_Compound Cover-p-500.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\66d3622a942268b3241217a4_Compound Cover-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/66d3622a942268b3241217a4_Compound Cover-p-800.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\66d3622a942268b3241217a4_Compound Cover-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/66d3622a942268b3241217a4_Compound Cover.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\66d3622a942268b3241217a4_Compound Cover.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/66d362bc2eda979c96e1370f_Cover Get Real-p-1080.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\66d362bc2eda979c96e1370f_Cover Get Real-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/66d362bc2eda979c96e1370f_Cover Get Real-p-500.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\66d362bc2eda979c96e1370f_Cover Get Real-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/66d362bc2eda979c96e1370f_Cover Get Real-p-800.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\66d362bc2eda979c96e1370f_Cover Get Real-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/64997ddd4e68f4e3552abfff/66d362bc2eda979c96e1370f_Cover Get Real.png
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\64997ddd4e68f4e3552abfff\66d362bc2eda979c96e1370f_Cover Get Real.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie.min.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\ajax\libs\bodymovin\5.7.8\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\ajax\libs\gsap\3.11.5\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/ScrollTrigger.min.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\ajax\libs\gsap\3.11.5\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\ajax\libs\slick-carousel\1.8.1\slick.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\ajax\libs\slick-carousel\1.8.1\slick.min.js
+Content Type: application/javascript
+
+Uri: https://challenges.cloudflare.com/turnstile/v0/b/a5b175b00260/api.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\turnstile\v0\b\a5b175b00260\api.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=64997ddd4e68f4e3552abfb1
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://js.hsforms.net/forms/embed/v2.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\forms\embed\v2.js
+Content Type: application/javascript
+
+Uri: https://player.vimeo.com/video/76979871?background=1
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\video\76979871.html
+Content Type: text/html
+
+Uri: https://tools.refokus.com/marquee/bundle.v1.0.0.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\marquee\bundle.v1.0.0.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/split-type@0.3.4/umd/index.min.js
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\split-type@0.3.4\umd\index.min.js
+Content Type: application/javascript
+
+Uri: https://www.assetlink.com/
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\index.htm
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-2XFG1M56Y3
+File Name: C:\Users\ayoub\Desktop\Assetlink website\Inspiratie\www.assetlink.com\gtag\js
+Content Type: application/javascript
+
